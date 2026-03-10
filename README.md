@@ -90,6 +90,6 @@ Opaaa pessoal Tranquilo Com Vocês 😜 Me chamo Pedro Henrique Peixoto, tenho 1
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/pelxotin/pelxotin/output/snake.svg" alt="Snake animation" />
 
 ###
