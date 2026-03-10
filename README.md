@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Pedro%20Henrique%20Peixoto&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-# 👋 Olá, seja bem-vindo ao meu GitHub!
+# 👋 OPAAA, seja bem-vindo ao meu GitHub!
 
 🎓 Estudante de Ciência da Computação no Mackenzie  
 💻 Desenvolvedor em formação  
@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 Um Pouco Sobre mim
 
 Me chamo **Pedro Henrique Peixoto**, tenho **17 anos** e sou natural de **São Paulo**.  
 
