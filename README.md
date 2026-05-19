@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Um Pouco Sobre mim
 
-Me chamo **Pedro Henrique Peixoto**, tenho **17 anos** e sou natural de **São Paulo**.  
+Me chamo **Pedro Henrique Peixoto**, tenho **18 anos** e sou natural de **São Paulo**.  
 
 Concluí o ensino médio na **FITO**, junto com o curso **Técnico em Informática para Internet**.  
 Atualmente estou cursando **Ciência da Computação na Universidade Presbiteriana Mackenzie**.
